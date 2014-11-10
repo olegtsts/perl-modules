@@ -1,0 +1,6 @@
+do{ my $x = {
+       'PoolController-0.01' => 1,
+       'PoolController-*' => 1,
+       'blib' => 1
+     };
+$x; }
