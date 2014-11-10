@@ -1,0 +1,8 @@
+instruction: http://www.slideshare.net/brian_d_foy/create-and-upload-to-cpan
+instruction2: http://search.cpan.org/~rjbs/perl-5.18.4/pod/perlnewmod.pod, www.perlmonks.org/?node_id=158999
+github repo: https://github.com/olegtsts/perl-modules/tree/master/PoolController
+pause site: https://pause.perl.org/pause/authenquery
+pause removing packages: https://pause.perl.org/pause/authenquery?ACTION=delete_files
+my directory: ftp://pause.perl.org/tmp/O/OL/OLEGTS
+final destination: https://pause.perl.org/pub/PAUSE/authors/id/O/OL/OLEGTS
+pause log file: https://pause.perl.org/pause/authenquery?ACTION=tail_logfile&pause99_tail_logfile_1=5000
